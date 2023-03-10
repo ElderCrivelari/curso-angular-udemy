@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./continue-register.component.scss']
 })
 export class ContinueRegisterComponent {
+  
 
 }
